@@ -7,32 +7,30 @@ Write in both tensorflow
 showcase various regularizations
 
 a) l1 l2 
-
-colablink:https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_dataAug.ipynb
+colab link: https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_regularizations.ipynb
 
 b) dropout 
-
-colablink:https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_dataAug.ipynb
+colab link: https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_regularizations.ipynb
 
 
 c) earlystop
-colablink:https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_dataAug.ipynb
+colab link: https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_regularizations.ipynb
 
 
 d) montecarlo dropout
-colablink:https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_dataAug.ipynb
+colab link: https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_regularizations.ipynb
 
 
 e) various initializations and when to use what
-colablink:https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_dataAug.ipynb
+colab link: https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_regularizations.ipynb
 
 
 f) batch norm
-colablink:https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_dataAug.ipynb
+colablink: https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_regularizations.ipynb
 
 
 g) custsom dropout, custom regularization
-colablink:https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_dataAug.ipynb
+colablink: https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_regularizations.ipynb
 
 h) using callbacks and tensorboard -
 colablink:https://colab.research.google.com/github/saipragna25/deep-learning-data-augmentation-assignment/blob/main/DL_dataAug.ipynb
